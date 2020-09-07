@@ -1,0 +1,27 @@
+.threeicons {
+}
+.icons {
+    font-size: 7rem;
+    padding: 20px !important;
+    border-radius: 75px;
+    color: rgb(195, 38, 38);
+    border: 1.5px solid rgb(195, 38, 38);
+}
+
+.icons:hover {
+    color: white;
+    background-color: rgb(195, 38, 38);
+}
+
+.col-md-4 {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+p {
+    font-size: 0.8rem !important;
+}
+
+h5 {
+    margin: 0 !important;
+}

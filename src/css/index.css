@@ -1,0 +1,9 @@
+html,body {
+    overflow-x: hidden;
+    background: #414141;
+}
+
+footer {
+    background-color: rgb(41, 40, 40);
+    color: white;
+}

@@ -1,0 +1,13 @@
+#intro-section {
+    background: url(https://i.pinimg.com/originals/2f/f8/4b/2ff84b840561cd54b8eae116159c922b.jpg) no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding: 8vw;
+    color: white;
+}
+
+.landing {
+    border: 1px solid white !important;
+}
